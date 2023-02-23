@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "name": "Arthuru Balboa vidal",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "service": [
+        {
+          "name": "teste",
+          "cost": "555",
+          "description": "teste",
+          "id": "d82c669c-e51c-4274-9f70-f21acc93da70"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Bala Jeff",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "service": [],
+      "id": 8
+    },
+    {
+      "cost": 0,
+      "service": [],
+      "id": 9
+    },
+    {
+      "cost": 0,
+      "service": [],
+      "id": 10
+    },
+    {
+      "name": "Gustavo",
+      "budget": "4000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 100,
+      "service": [
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "376ec8f4-e86e-46d8-b5ab-cd2c8cbeec3c"
+        }
+      ],
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
